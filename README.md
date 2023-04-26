@@ -1,3 +1,3 @@
-# Today challenged solved
+# Lab 10 Assignment:
 
-## Solved 3 Code challenges in recursion 7:15 am 26th of April
+## solved Regex and Recursion Challenges Assignment 
